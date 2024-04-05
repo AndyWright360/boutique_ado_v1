@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-9(zg$sn(5=nrv562i9$-u+g8=ftk)o0z3hv3)i$p#**^s^x(zi
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'andywright360-project-boutique-ado-v1.herokuapp.com',
+    'project-boutique-ado-v1-aa507565731c.herokuapp.com',
     '8000-andywright3-boutiqueado-d3ue5wh2cyq.ws-eu110.gitpod.io'
 ]
 
